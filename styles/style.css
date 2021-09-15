@@ -1,0 +1,120 @@
+.div1 {
+	display: inline-block;
+}
+.navcl {
+	display: inline-block;
+	vertical-align: middle;
+}
+.div2 {
+	width: 1190px;
+	margin: 0 auto;
+}
+.div3 {
+	display: inline-block;
+	width: 360px;
+	vertical-align: middle;
+	position: relative;
+}
+.div4 {
+	display: inline-block;
+	width: 760px;
+	vertical-align: top;
+}
+.div5 {
+	display: inline-block;
+	width: 360px;
+	vertical-align: top;
+	margin-left: 40px;
+}
+.div6 {
+	width: 1190px;
+	margin: 0 auto;
+}
+.foot {
+	height: 200px;
+	background-color: #A6ADB4;
+	margin-top: 37px;
+}
+.div7 {
+	display: inline-block;
+	width: 487px;
+	margin-left: 142px;
+	margin-top: 56px;
+}
+.footnav {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.footnav1 {
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.footlogo {
+	vertical-align: top;
+} 
+.lastdiv {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 105px;
+	margin-top: 56px;
+
+}
+.header {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 0;
+	height: 50px;
+
+
+}
+.section1 {
+	padding: 50px;
+}
+.sat1 {
+	position: absolute;
+	left: 40px;
+	top: 28px;
+	color: white;
+}
+.cont {
+	width: 760px;
+	position: relative;
+}
+.sat2 {
+ 	position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+   
+}
+.logodiv {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 105px;
+	margin-top: 56px;
+
+}
+.soci {
+	margin-left: 32px;
+}
+.let1 {
+	margin-left: 92px;
+}
+.let {
+	margin-left: 22px;
+}
+.logo1 {
+	height: 15px;
+	width: 38px; 
+	margin-left: 20px;
+}
+.image6 {
+	margin-top: 40px;
+}
+.imageleft {
+	margin-top: 102px;
+}
